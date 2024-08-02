@@ -2,7 +2,7 @@
   <h2 align="center">👋 Hello, I'm Adithyan S Pillai</h2>
 
 <h4 align="center">
-  🚀 Full Stack Developer | Specialised in Node JS | 3rd Year B.Tech Student at Carmel College of Engineering and Technology
+  🚀 Full Stack Developer | Specialised in Node JS | Final Year B.Tech Student at Carmel College of Engineering and Technology
 </h4>
 
 - 👨‍💻 Aspiring Developer with a passion in making new softwares
